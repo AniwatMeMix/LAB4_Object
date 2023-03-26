@@ -1,0 +1,17 @@
+C:\Work Code\OOP\LAB4_Object\LAB4_Object\obj\Debug\net6.0-windows\LAB4_Object.csproj.AssemblyReference.cache
+C:\Work Code\OOP\LAB4_Object\LAB4_Object\obj\Debug\net6.0-windows\LAB4_Object.Form1.resources
+C:\Work Code\OOP\LAB4_Object\LAB4_Object\obj\Debug\net6.0-windows\LAB4_Object.csproj.GenerateResource.cache
+C:\Work Code\OOP\LAB4_Object\LAB4_Object\obj\Debug\net6.0-windows\LAB4_Object.GeneratedMSBuildEditorConfig.editorconfig
+C:\Work Code\OOP\LAB4_Object\LAB4_Object\obj\Debug\net6.0-windows\LAB4_Object.AssemblyInfoInputs.cache
+C:\Work Code\OOP\LAB4_Object\LAB4_Object\obj\Debug\net6.0-windows\LAB4_Object.AssemblyInfo.cs
+C:\Work Code\OOP\LAB4_Object\LAB4_Object\obj\Debug\net6.0-windows\LAB4_Object.csproj.CoreCompileInputs.cache
+C:\Work Code\OOP\LAB4_Object\LAB4_Object\bin\Debug\net6.0-windows\LAB4_Object.exe
+C:\Work Code\OOP\LAB4_Object\LAB4_Object\bin\Debug\net6.0-windows\LAB4_Object.deps.json
+C:\Work Code\OOP\LAB4_Object\LAB4_Object\bin\Debug\net6.0-windows\LAB4_Object.runtimeconfig.json
+C:\Work Code\OOP\LAB4_Object\LAB4_Object\bin\Debug\net6.0-windows\LAB4_Object.dll
+C:\Work Code\OOP\LAB4_Object\LAB4_Object\bin\Debug\net6.0-windows\LAB4_Object.pdb
+C:\Work Code\OOP\LAB4_Object\LAB4_Object\obj\Debug\net6.0-windows\LAB4_Object.dll
+C:\Work Code\OOP\LAB4_Object\LAB4_Object\obj\Debug\net6.0-windows\refint\LAB4_Object.dll
+C:\Work Code\OOP\LAB4_Object\LAB4_Object\obj\Debug\net6.0-windows\LAB4_Object.pdb
+C:\Work Code\OOP\LAB4_Object\LAB4_Object\obj\Debug\net6.0-windows\LAB4_Object.genruntimeconfig.cache
+C:\Work Code\OOP\LAB4_Object\LAB4_Object\obj\Debug\net6.0-windows\ref\LAB4_Object.dll
